@@ -1,0 +1,107 @@
+[
+    {
+        "LongRespawn": "true",
+        "Name": "Skarthul the Avenged",
+        "Id": "0",
+        "Num": 0,
+        "Level": 90,
+        "Attackable": "false",
+        "Talkable": "false",
+        "Spawnable": "false",
+        "Trainer": "false",
+        "Rooms": [
+            23954
+        ],
+        "Raid": "true"
+    },
+    {
+        "LongRespawn": "true",
+        "Name": "Frenzied Ascendant",
+        "Id": "0",
+        "Num": 0,
+        "Level": 75,
+        "Attackable": "false",
+        "Talkable": "false",
+        "Spawnable": "false",
+        "Trainer": "false",
+        "Rooms": [
+            26208
+        ],
+        "Raid": "true"
+    },
+    {
+        "LongRespawn": "true",
+        "Name": "Ethereal Priest",
+        "Id": "3453",
+        "Num": 728,
+        "Level": 65,
+        "Attackable": "false",
+        "Talkable": "false",
+        "Spawnable": "false",
+        "Trainer": "false",
+        "Rooms": [
+            26222
+        ],
+        "Raid": "true"
+    },
+    {
+        "LongRespawn": "true",
+        "Name": "Ethereal Steed",
+        "Id": "3455",
+        "Num": 728,
+        "Level": 65,
+        "Attackable": "false",
+        "Talkable": "false",
+        "Spawnable": "false",
+        "Trainer": "false",
+        "Rooms": [
+            26223
+        ],
+        "Raid": "true"
+    },
+    {
+        "LongRespawn": "true",
+        "Name": "Ethereal Serpent",
+        "Id": "3454",
+        "Num": 728,
+        "Level": 65,
+        "Attackable": "false",
+        "Talkable": "false",
+        "Spawnable": "false",
+        "Trainer": "false",
+        "Rooms": [
+            26226
+        ],
+        "Raid": "true"
+    },
+    {
+        "LongRespawn": "true",
+        "Name": "Ethereal Sorcerer",
+        "Id": "3456",
+        "Num": 728,
+        "Level": 65,
+        "Attackable": "false",
+        "Talkable": "false",
+        "Spawnable": "false",
+        "Trainer": "false",
+        "Rooms": [
+            26225
+        ],
+        "Raid": "true"
+    },
+    {
+        "LongRespawn": "true",
+        "Name": "Ethereal Doomlord",
+        "Id": "3457",
+        "Num": 728,
+        "Level": 65,
+        "Attackable": "false",
+        "Talkable": "false",
+        "Spawnable": "false",
+        "Trainer": "false",
+        "Rooms": [
+            26224
+        ],
+        "Raid": "true"
+    }
+]
