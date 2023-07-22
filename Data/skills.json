@@ -1,0 +1,33 @@
+{
+    "class_skills": {
+        "Empower": 3,
+        "Stealth": 4,
+        "On Guard": 7,
+        "Vitamin X": 22,
+        "Fortify": 28
+    },
+    "ferocity_skills": {
+        "Boost": 9,
+        "Protection": 26,
+        "Accurate Strike": 29,
+        "Dark Strength": 312,
+        "Swiftness": 87,
+        "Haste": 3024,
+        "Masterful Looting": 17,
+        "Circumspect": 3008,
+        "Bloodlust": 5,
+        "Stone Skin": 3007
+    },
+    "preservation_skills": {
+        "Masterful Raiding": 3013,
+        "Markdown": 3014,
+        "Last Stand": 3010,
+        "Strength in Numbers": 3015,
+        "Forcefield": 3009,
+        "Blessing from Above": 2,
+        "Enchant Armor": 3011,
+        "Elemental Power": 3012,
+        "Executioner": 3025,
+        "Elemental Barrier": 3006
+    }
+}
